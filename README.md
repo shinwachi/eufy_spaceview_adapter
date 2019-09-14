@@ -2,3 +2,5 @@ The adapter angles the Eufy Spaceview baby monitor downwards 45 degrees to elimi
 
 This model is under creative commons license (BY)
 Licensees may copy, distribute, display and perform the work and make derivative works and remixes based on it only if they give the author or licensor the credits (attribution) in the manner specified by these.
+
+![Image of adapter in action](images/IMG_0595.jpg)
